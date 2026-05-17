@@ -111,4 +111,3 @@ Eu escrevi cada arquivo pensando em:
 - aplicar polimorfismo para adaptar comportamento
 - transformar lógica em objetos
 
-Se quiser, posso também adicionar um README em português mais curto para o GitHub ou criar exemplos de execução passo a passo.
